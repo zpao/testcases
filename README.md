@@ -1,3 +1,5 @@
+**Status:** Resolved as of https://github.com/eslint/eslint/commit/57bd7d274be1a9dff3b15f93de607623961162b7.
+
 # eslint-indent-with-newlines
 
 This test case is for a stylistic issue with ESLint's `indent` rule.
