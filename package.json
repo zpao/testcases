@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "dependencies": {
+    "eslint": "~1.5.0"
+  }
+}
