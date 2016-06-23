@@ -1,4 +1,4 @@
-**Status:** Submitting to Apple
+**Status:** Radar 26982554
 
 # safari-html-comment-clipboard
 
