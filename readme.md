@@ -1,4 +1,4 @@
-**Status:** Radar 26982554
+**Status:** Radar ~~26982554~~ 19834542 (open as of 2016-06-24)
 
 # safari-html-comment-clipboard
 
